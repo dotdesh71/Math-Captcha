@@ -10,9 +10,6 @@ A simple math captcha using JavaScript and HTML with Bulma CSS framework.
 ## Getting Started
 1. Clone the repository to your local machine
 
-git clone https://github.com/shanto2022/Math-Captcha.git
-
-
 2. Open the `index.html` file in your browser
 
 3. Enter your answer to the math question in the input field and click the "Submit" button. The result will be displayed below.
