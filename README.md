@@ -26,3 +26,6 @@ Feel free to fork the repository and make any changes you see fit. I am open to 
 
 ## License
 This project is licensed under the MIT License.
+
+## Support us
+- [Dotdesh](https://www.dotdesh.com/)
